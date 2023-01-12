@@ -1,27 +1,56 @@
-# Next.js + Tailwind CSS Example
+<div align="center">
+  <h1>:popcorn: Netflix clone :popcorn:</h1>
+</div>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<div align="center">
+  <img align="center" alt="typescript" title="typescript" height="50" width="100" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo-1024x576.png">
+  <img align="center" alt="next.js" title="next.js" height="50" width="100" src="https://miro.medium.com/max/1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg">
+  <img align="center" alt="TailwindCSS" title="TailwindCSS" height="50" width="90"  src="https://joseordaz.com/wp-content/uploads/2021/12/tailwind-pre.png">
+  <img align="center" alt="reacticons" title="reacticons" height="50" width="120" src="https://static.javatpoint.com/tutorial/reactjs/images/react-icons.png">
+</div>
 
-## Deploy your own
+# :pushpin: Table of Contents
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+* [Technologies](#computer-technologies)
+* [How to Run](#construction_worker-how-to-run)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Deploy](#rocket-deploy)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+# :computer: Technologies
+This project was made using the follow technologies:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+* [TypeScript](https://www.typescriptlang.org/) 
+* [Next.js](https://nextjs.org/)      
+* [TailwindCss](https://tailwindcss.com/)
+* [React Icons](https://react-icons.github.io/react-icons/)
+
+
+# :construction_worker: How to run
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+# Clone Repository
+$ git clone https://github.com/Raquelitel/Netflix-clon-typescript
+```
+
+### 💻 Run Web Project
+
+```bash
+
+# Install Dependencies
+$ npm install
 ```
 
 ```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+# Run Aplication
+$ npm run dev
 ```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+# :bug: Issues
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Feel free to **create a new issue** with a respective title and description on the [Netflix-clon-typescript](https://github.com/Raquelitel/Netflix-clon-typescript/issues) repository. If you find a solution to any problem, **I would love to review your pull request**!
+
+
+# :rocket: Deploy
+
+https://netflix-clon-typescript.vercel.app/
